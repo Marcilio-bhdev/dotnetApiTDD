@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "PDx76NZwqTHK7LkjA78qK0m/Z0Rtab202Uo/UDG+i7TCnmsAiafT8l7oeiPObqk0/+3cURqD3MXPU3NtiG8//w==",
+  "dgSpecHash": "JM6Ruq+G8Strv8n9vjX8UmwFMiPH37qp4Ip068Xg9KXrgO5P5WAwXOIxAjaVRKGDnl0CnU7uLYJ2UdwQrrj4ZQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\NoteMarcilio\\Documents\\GitHub\\dotnetApiTDD\\src\\Api.Data\\Data.csproj",
   "expectedPackageFiles": [
