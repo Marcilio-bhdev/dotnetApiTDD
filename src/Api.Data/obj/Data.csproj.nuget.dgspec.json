@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\NoteMarcilio\\Documents\\GitHub\\dotnetApiTDD\\src\\Api.Data\\Data.csproj": {}
+    "C:\\Users\\NoteMarcilio\\Documents\\GitHub\\dotnetApiTDD\\src\\Api.Data\\Data.csproj": {}
   },
   "projects": {
-    "c:\\Users\\NoteMarcilio\\Documents\\GitHub\\dotnetApiTDD\\src\\Api.Data\\Data.csproj": {
+    "C:\\Users\\NoteMarcilio\\Documents\\GitHub\\dotnetApiTDD\\src\\Api.Data\\Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\NoteMarcilio\\Documents\\GitHub\\dotnetApiTDD\\src\\Api.Data\\Data.csproj",
+        "projectUniqueName": "C:\\Users\\NoteMarcilio\\Documents\\GitHub\\dotnetApiTDD\\src\\Api.Data\\Data.csproj",
         "projectName": "Data",
-        "projectPath": "c:\\Users\\NoteMarcilio\\Documents\\GitHub\\dotnetApiTDD\\src\\Api.Data\\Data.csproj",
+        "projectPath": "C:\\Users\\NoteMarcilio\\Documents\\GitHub\\dotnetApiTDD\\src\\Api.Data\\Data.csproj",
         "packagesPath": "C:\\Users\\NoteMarcilio\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\NoteMarcilio\\Documents\\GitHub\\dotnetApiTDD\\src\\Api.Data\\obj\\",
+        "outputPath": "C:\\Users\\NoteMarcilio\\Documents\\GitHub\\dotnetApiTDD\\src\\Api.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -43,6 +43,28 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.32, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.32, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.32, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

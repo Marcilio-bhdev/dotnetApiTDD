@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xIrRgqn5SdeUsagfSt1KxcCNCmRboVM7V/Bp8Vw/L4d8WkOGFn8Mm7ho61mPAIZJHQBMemYetfqZa+cyjvZY5A==",
+  "dgSpecHash": "J4LA5oVtVW8lqz5RrHTNxq/x2yMle+QbV63Ug7QxI28HFMdTczgygtTZtCA5T5inQ4PkjEU/cOw5mleMX/63jA==",
   "success": true,
-  "projectFilePath": "c:\\Users\\NoteMarcilio\\Documents\\GitHub\\dotnetApiTDD\\src\\Api.service\\Service.csproj",
+  "projectFilePath": "C:\\Users\\NoteMarcilio\\Documents\\GitHub\\dotnetApiTDD\\src\\Api.service\\Service.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

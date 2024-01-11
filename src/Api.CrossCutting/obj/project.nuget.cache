@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "y5KX6sX5lP0qw4z3AEeGGQHvdIKR3X2tO+TK9MJxaAO2Zif5fn7dkdzewfFI4lhaai8j0sIQ4dt6kh2tz2L0CA==",
+  "dgSpecHash": "sYIgP1ghfJqRBA1SeGBDKAMh0saSXo02DfW+FqQVWUQ01tPcx0XUCEE4oc/ksI3oOqLjT0R/1wsgjQb7Cea/Bg==",
   "success": true,
-  "projectFilePath": "c:\\Users\\NoteMarcilio\\Documents\\GitHub\\dotnetApiTDD\\src\\Api.CrossCutting\\CrossCutting.csproj",
+  "projectFilePath": "C:\\Users\\NoteMarcilio\\Documents\\GitHub\\dotnetApiTDD\\src\\Api.CrossCutting\\CrossCutting.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

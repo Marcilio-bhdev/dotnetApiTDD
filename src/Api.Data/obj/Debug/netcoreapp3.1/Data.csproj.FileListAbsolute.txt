@@ -7,3 +7,7 @@ C:\Users\NoteMarcilio\Documents\GitHub\dotnetApiTDD\src\Api.Data\obj\Debug\netco
 C:\Users\NoteMarcilio\Documents\GitHub\dotnetApiTDD\src\Api.Data\obj\Debug\netcoreapp3.1\Data.csproj.CoreCompileInputs.cache
 C:\Users\NoteMarcilio\Documents\GitHub\dotnetApiTDD\src\Api.Data\obj\Debug\netcoreapp3.1\Data.dll
 C:\Users\NoteMarcilio\Documents\GitHub\dotnetApiTDD\src\Api.Data\obj\Debug\netcoreapp3.1\Data.pdb
+C:\Users\NoteMarcilio\Documents\GitHub\dotnetApiTDD\src\Api.Data\bin\Debug\netcoreapp3.1\Data.runtimeconfig.json
+C:\Users\NoteMarcilio\Documents\GitHub\dotnetApiTDD\src\Api.Data\bin\Debug\netcoreapp3.1\Data.runtimeconfig.dev.json
+C:\Users\NoteMarcilio\Documents\GitHub\dotnetApiTDD\src\Api.Data\obj\Debug\netcoreapp3.1\Data.csproj.AssemblyReference.cache
+C:\Users\NoteMarcilio\Documents\GitHub\dotnetApiTDD\src\Api.Data\obj\Debug\netcoreapp3.1\Data.genruntimeconfig.cache
