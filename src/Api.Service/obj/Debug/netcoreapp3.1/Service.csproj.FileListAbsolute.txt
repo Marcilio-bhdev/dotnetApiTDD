@@ -1,0 +1,9 @@
+C:\Users\NoteMarcilio\Documents\GitHub\dotnetApiTDD\src\Api.service\bin\Debug\netcoreapp3.1\Service.deps.json
+C:\Users\NoteMarcilio\Documents\GitHub\dotnetApiTDD\src\Api.service\bin\Debug\netcoreapp3.1\Service.dll
+C:\Users\NoteMarcilio\Documents\GitHub\dotnetApiTDD\src\Api.service\bin\Debug\netcoreapp3.1\Service.pdb
+C:\Users\NoteMarcilio\Documents\GitHub\dotnetApiTDD\src\Api.service\obj\Debug\netcoreapp3.1\Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NoteMarcilio\Documents\GitHub\dotnetApiTDD\src\Api.service\obj\Debug\netcoreapp3.1\Service.AssemblyInfoInputs.cache
+C:\Users\NoteMarcilio\Documents\GitHub\dotnetApiTDD\src\Api.service\obj\Debug\netcoreapp3.1\Service.AssemblyInfo.cs
+C:\Users\NoteMarcilio\Documents\GitHub\dotnetApiTDD\src\Api.service\obj\Debug\netcoreapp3.1\Service.csproj.CoreCompileInputs.cache
+C:\Users\NoteMarcilio\Documents\GitHub\dotnetApiTDD\src\Api.service\obj\Debug\netcoreapp3.1\Service.dll
+C:\Users\NoteMarcilio\Documents\GitHub\dotnetApiTDD\src\Api.service\obj\Debug\netcoreapp3.1\Service.pdb
