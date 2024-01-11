@@ -1,0 +1,9 @@
+C:\Users\NoteMarcilio\Documents\GitHub\dotnetApiTDD\src\Api.CrossCutting\bin\Debug\netcoreapp3.1\CrossCutting.deps.json
+C:\Users\NoteMarcilio\Documents\GitHub\dotnetApiTDD\src\Api.CrossCutting\bin\Debug\netcoreapp3.1\CrossCutting.dll
+C:\Users\NoteMarcilio\Documents\GitHub\dotnetApiTDD\src\Api.CrossCutting\bin\Debug\netcoreapp3.1\CrossCutting.pdb
+C:\Users\NoteMarcilio\Documents\GitHub\dotnetApiTDD\src\Api.CrossCutting\obj\Debug\netcoreapp3.1\CrossCutting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NoteMarcilio\Documents\GitHub\dotnetApiTDD\src\Api.CrossCutting\obj\Debug\netcoreapp3.1\CrossCutting.AssemblyInfoInputs.cache
+C:\Users\NoteMarcilio\Documents\GitHub\dotnetApiTDD\src\Api.CrossCutting\obj\Debug\netcoreapp3.1\CrossCutting.AssemblyInfo.cs
+C:\Users\NoteMarcilio\Documents\GitHub\dotnetApiTDD\src\Api.CrossCutting\obj\Debug\netcoreapp3.1\CrossCutting.csproj.CoreCompileInputs.cache
+C:\Users\NoteMarcilio\Documents\GitHub\dotnetApiTDD\src\Api.CrossCutting\obj\Debug\netcoreapp3.1\CrossCutting.dll
+C:\Users\NoteMarcilio\Documents\GitHub\dotnetApiTDD\src\Api.CrossCutting\obj\Debug\netcoreapp3.1\CrossCutting.pdb
