@@ -7,3 +7,4 @@ C:\Users\NoteMarcilio\Documents\GitHub\dotnetApiTDD\src\Api.CrossCutting\obj\Deb
 C:\Users\NoteMarcilio\Documents\GitHub\dotnetApiTDD\src\Api.CrossCutting\obj\Debug\netcoreapp3.1\CrossCutting.csproj.CoreCompileInputs.cache
 C:\Users\NoteMarcilio\Documents\GitHub\dotnetApiTDD\src\Api.CrossCutting\obj\Debug\netcoreapp3.1\CrossCutting.dll
 C:\Users\NoteMarcilio\Documents\GitHub\dotnetApiTDD\src\Api.CrossCutting\obj\Debug\netcoreapp3.1\CrossCutting.pdb
+C:\Users\NoteMarcilio\Documents\GitHub\dotnetApiTDD\src\Api.CrossCutting\obj\Debug\netcoreapp3.1\CrossCutting.csproj.AssemblyReference.cache
