@@ -2,31 +2,46 @@ using System;
 using System.Collections.Generic;
 using System.Diagnostics;
 using System.Linq;
+using System.Net;
 using System.Threading.Tasks;
+using Api.Domain.Interfaces.Services.User;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 
 namespace Api.Application.Controllers
 {
     [Route("api/[controller]")]
-    public class UsersController : Controller
+    [ApiController]
+    public class UsersController : ControllerBase
     {
-        private readonly ILogger<UsersController> _logger;
-
-        public UsersController(ILogger<UsersController> logger)
+        private IUserService _serviice;
+        public UsersController(IUserService service)
         {
-            _logger = logger;
+            _serviice = service;
         }
 
-        public IActionResult Index()
+
+        [HttpGet]
+        public async Task<ActionResult> GetAll()
         {
-            return View();
+
+
+            if (!ModelState.IsValid)
+            {
+                return BadRequest(ModelState);
+            }
+
+            try
+            {
+                return Ok(await _serviice.GetAll());
+            }
+            catch (ArgumentException ex)
+            {
+                return StatusCode((int)HttpStatusCode.InternalServerError, ex.Message);
+
+            }
+
         }
 
-        [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
-        public IActionResult Error()
-        {
-            return View("Error!");
-        }
     }
 }

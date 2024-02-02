@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qSil2hHfM6+HvY5Oj2ta2rudobsNHR5dg68wKpprjW539Ycn3FtKSt9GWmB8SOGtN9cs4nOJ+T4j/M6wjfXxsg==",
+  "dgSpecHash": "CzXH9RVg0pMxaqFb0whdd9MCLROHFg5dYumIFEvk5Kd7AHKJnTIlx+rcCrcn+LbrgjbJNkw5W5kz8s62brp9EA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\NoteMarcilio\\Documents\\GitHub\\dotnetApiTDD\\src\\Api.service\\Service.csproj",
+  "projectFilePath": "c:\\Users\\NoteMarcilio\\Documents\\GitHub\\dotnetApiTDD\\src\\Api.Service\\Service.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\NoteMarcilio\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\NoteMarcilio\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.1\\microsoft.bcl.hashcode.1.1.1.nupkg.sha512",
