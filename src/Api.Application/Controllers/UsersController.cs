@@ -24,8 +24,6 @@ namespace Api.Application.Controllers
         [HttpGet]
         public async Task<ActionResult> GetAll()
         {
-
-
             if (!ModelState.IsValid)
             {
                 return BadRequest(ModelState);
