@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aHCmg3yrHHxDvtRkLhdaochmhLD2bzWv1QRtDYDAQtEMjHB1dYpEeQtwYGh3OzIAEZ8U2/XPEDzwKUHeaTj1Hw==",
+  "dgSpecHash": "/Ir8k84YeNFNJxKBOcnRtOw4kptNLQ51og5rKmWAaIAp3cK56ocLUZHOMumQkPuxahCe/KI+uzjJ74vOXESfGg==",
   "success": true,
-  "projectFilePath": "c:\\Users\\NoteMarcilio\\Documents\\GitHub\\dotnetApiTDD\\src\\Api.Application\\application.csproj",
+  "projectFilePath": "C:\\Users\\NoteMarcilio\\Documents\\GitHub\\dotnetApiTDD\\src\\Api.Application\\application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\NoteMarcilio\\.nuget\\packages\\automapper\\10.0.0\\automapper.10.0.0.nupkg.sha512",
     "C:\\Users\\NoteMarcilio\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.0.1\\automapper.extensions.microsoft.dependencyinjection.8.0.1.nupkg.sha512",

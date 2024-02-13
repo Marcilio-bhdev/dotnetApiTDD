@@ -5391,11 +5391,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\NoteMarcilio\\Documents\\GitHub\\dotnetApiTDD\\src\\Api.Service\\Service.csproj",
+      "projectUniqueName": "C:\\Users\\NoteMarcilio\\Documents\\GitHub\\dotnetApiTDD\\src\\Api.service\\Service.csproj",
       "projectName": "Service",
-      "projectPath": "c:\\Users\\NoteMarcilio\\Documents\\GitHub\\dotnetApiTDD\\src\\Api.Service\\Service.csproj",
+      "projectPath": "C:\\Users\\NoteMarcilio\\Documents\\GitHub\\dotnetApiTDD\\src\\Api.service\\Service.csproj",
       "packagesPath": "C:\\Users\\NoteMarcilio\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\NoteMarcilio\\Documents\\GitHub\\dotnetApiTDD\\src\\Api.Service\\obj\\",
+      "outputPath": "C:\\Users\\NoteMarcilio\\Documents\\GitHub\\dotnetApiTDD\\src\\Api.service\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -5416,11 +5416,11 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "c:\\Users\\NoteMarcilio\\Documents\\GitHub\\dotnetApiTDD\\src\\Api.Data\\Data.csproj": {
-              "projectPath": "c:\\Users\\NoteMarcilio\\Documents\\GitHub\\dotnetApiTDD\\src\\Api.Data\\Data.csproj"
+            "C:\\Users\\NoteMarcilio\\Documents\\GitHub\\dotnetApiTDD\\src\\Api.Data\\Data.csproj": {
+              "projectPath": "C:\\Users\\NoteMarcilio\\Documents\\GitHub\\dotnetApiTDD\\src\\Api.Data\\Data.csproj"
             },
-            "c:\\Users\\NoteMarcilio\\Documents\\GitHub\\dotnetApiTDD\\src\\Api.Domain\\Domain.csproj": {
-              "projectPath": "c:\\Users\\NoteMarcilio\\Documents\\GitHub\\dotnetApiTDD\\src\\Api.Domain\\Domain.csproj"
+            "C:\\Users\\NoteMarcilio\\Documents\\GitHub\\dotnetApiTDD\\src\\Api.Domain\\Domain.csproj": {
+              "projectPath": "C:\\Users\\NoteMarcilio\\Documents\\GitHub\\dotnetApiTDD\\src\\Api.Domain\\Domain.csproj"
             }
           }
         }
