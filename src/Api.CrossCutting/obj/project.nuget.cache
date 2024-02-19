@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IDXsVMm+4kQk+V8Ws+Pc1ZjUlHjSmjKYiMem0U3+9+AAvWw1+wGrTSAQCQADFfbtyj0kihMB4dnrpyk1WirT6g==",
+  "dgSpecHash": "8wc3pGREdHdQg9BbLHMIECgTOivXWr5THyU9rUKpe9WtWsuBtoe/En59s1EeSFYj6lfhEkE0GB953/sh2N42MA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\NoteMarcilio\\Documents\\GitHub\\dotnetApiTDD\\src\\Api.CrossCutting\\CrossCutting.csproj",
+  "projectFilePath": "c:\\Users\\NoteMarcilio\\Documents\\GitHub\\dotnetApiTDD\\src\\Api.CrossCutting\\CrossCutting.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\NoteMarcilio\\.nuget\\packages\\automapper\\10.0.0\\automapper.10.0.0.nupkg.sha512",
     "C:\\Users\\NoteMarcilio\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.0.1\\automapper.extensions.microsoft.dependencyinjection.8.0.1.nupkg.sha512",
